@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "pegasus",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pegasus"
+	}
+}
